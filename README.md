@@ -1,8 +1,14 @@
-### Hi there 👋
+# Aalaap Ghag
+---
+<a href="https://github.com/aalaap"><img src="https://img.shields.io/github/followers/aalaap.svg?label=GitHub&style=social" alt="GitHub"></a> <a href="https://twitter.com/aalaap"><img src="https://img.shields.io/twitter/follow/aalaap?label=Twitter&style=social" alt="Twitter"></a> <a href="https://reddit.com/u/aalaap"><img src="https://img.shields.io/reddit/user-karma/combined/aalaap?style=social" alt="Reddit"></a> <a href="https://last.fm/users/aalaap"><img src="https://img.shields.io/badge/Last_fm--aalaap?logo=last.fm&style=social" alt="Last.fm"></a> <a href="https://instagram.com/aalaap"><img src="https://img.shields.io/badge/Instagram--aalaap?logo=instagram&style=social" alt="Instagram"></a> <a href="https://facebook.com/aalaap"><img src="https://img.shields.io/badge/Facebook--aalaap?logo=facebook&style=social" alt="Facebook"></a>
 
-I'm Aalaap Ghag. I like to build apps, design artwork and produce music. I also love to constantly learn new things and mentor teams and individuals. I live in Mumbai, India.
+Hi there! 👋
 
-I love JavaScript and PHP, which contribute to the bulk of my work, but I've also worked on C++, Java, Python, Ruby, and .NET.
+I like to build apps, design artwork and produce music. I also love to constantly learn new things and teach others. I love JavaScript and PHP, which contribute to the bulk of my work, but I've also worked on C++, Java, Python, Ruby, and .NET.
+
+I live in Mumbai, India.
+
+## My list
 
 - 👨‍💻 I’m currently working on **modernizing legacy architectures of my own apps**
 - 👨‍🏫 I’m currently learning **Rust**, **Go** and **Elixir**
