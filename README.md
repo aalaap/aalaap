@@ -3,7 +3,7 @@
 
 Hi there! 👋
 
-I like to build apps, design artwork and produce music. I also love to constantly learn new things and teach others. I love JavaScript and PHP, which contribute to the bulk of my work, but I've also worked on C++, Java, Python, Ruby, and .NET.
+I like to build apps, design layouts and produce music. I love JavaScript and PHP, which contribute to the bulk of my work, but I've also worked on C++, Java, Python, Ruby, and .NET. I also love to constantly learn new things and teach others.
 
 I live in Mumbai, India.
 
@@ -14,7 +14,7 @@ I live in Mumbai, India.
 - 👷‍♀️ I’m looking to collaborate on **React**, **Next.js**, **GatsbyJS** and **RedwoodJS**
 - 🕵️‍♀️ I’m looking for help with **setting up CI/CD pipelines** and **enviroment management**
 - 👨‍⚖️ Ask me about **NoSQL data modelling**, **atomic design methodology** and **functional programming**
-- 👩‍✈️ How to reach me: `@gmail`
+- 👩‍✈️ Reach me at **Gmail**
 - 🧔 Pronouns: **he/him**
 - 🧟‍♂️ Fun fact: **I always fly the airline of the country I'm flying to!**
 
