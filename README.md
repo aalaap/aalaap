@@ -2,7 +2,7 @@
 
 I'm Aalaap Ghag. I like to build apps, design artwork and produce music. I also love to constantly learn new things and mentor teams and individuals. I live in Mumbai, India.
 
-I love JavaScript and PHP, which comprises the bulk of my work, but I've also worked on C++, Java, Python, Ruby, and .NET.
+I love JavaScript and PHP, which contribute to the bulk of my work, but I've also worked on C++, Java, Python, Ruby, and .NET.
 
 - 👨‍💻 I’m currently working on **modernizing legacy architectures of my own apps**
 - 👨‍🏫 I’m currently learning **Rust**, **Go** and **Elixir**
