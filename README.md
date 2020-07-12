@@ -15,8 +15,8 @@ I live in Mumbai, India.
 - 🕵️‍♀️ I’m looking for help with **setting up CI/CD pipelines** and **enviroment management**
 - 👨‍⚖️ Ask me about **NoSQL data modelling**, **atomic design methodology** and **functional programming**
 - 👩‍✈️ Reach me at **Gmail**
-- 🧔 Pronouns: **he/him**
-- 🧟‍♂️ Fun fact: **I always fly the airline of the country I'm flying to!**
+- 🧔 My pronouns are **he/him**
+- 🧟‍♂️ A fun fact about me: **I always fly the airline of the country I'm flying to!**
 
 Stay safe and keep coding!
 
