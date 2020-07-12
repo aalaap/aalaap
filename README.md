@@ -3,11 +3,11 @@
 I like to code.
 
 - 👨‍💻 I’m currently working on **modernizing legacy architectures of my own apps**
-- 👨‍🏫 I’m currently learning **Rust**, **Ruby** and **Go**
+- 👨‍🏫 I’m currently learning **Rust**, **Go** and **Ruby**
 - 👷‍♀️ I’m looking to collaborate on **React**, **Next.js**, **GatsbyJS** and **RedwoodJS**
 - 🕵️‍♀️ I’m looking for help with **setting up CI/CD pipelines** and **enviroment management**
-- 👨‍⚖️ Ask me about **NoSQL data modelling**, **atomic design methodology**, **functional programming**
-- 👩‍✈️ How to reach me: `at gmail dot com`
+- 👨‍⚖️ Ask me about **NoSQL data modelling**, **atomic design methodology** and **functional programming**
+- 👩‍✈️ How to reach me: `@gmail`
 - 🧔 Pronouns: **he/him**
 - 🧟‍♂️ Fun fact: **I always fly the airline of the country I'm flying to!**
 
