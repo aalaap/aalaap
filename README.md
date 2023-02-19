@@ -13,7 +13,7 @@ I live in Mumbai, India.
 
 - 👨‍💻 I’m currently working on a few **Next.js** projects with **TypeScript**, **Tailwind CSS** and **TanStack Query**.
 - 👨‍🏫 I’m currently learning **Deno**, **Rust**, **Go** and more.
-- 👷‍♀️ I’m looking to collaborate on **React**, **Next.js**, **Astro**, **Remix**, **RedwoodJS**, **Blitz.js**, **fresh** and more.
+- 👷‍♀️ I’m looking to collaborate on anything **JavaScript** and **serverless**.
 - 👨‍⚖️ Ask me about **serverless architecture**, **NoSQL data modelling** and **developer experience**.
 - 👩‍✈️ Reach me at **Gmail**.
 - 🧔 My pronouns are **he/him**.
