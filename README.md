@@ -3,7 +3,7 @@
 
 Hi there! 👋
 
-I'm a cloud solutions architect and a full-stack JavaScript engineer from Mumbai, India. I love all things JS&mdash;React, Next.js, Node.js, Express, NestJS, TypeScript&mdash;and serverless cloud platforms like AWS, GCP and MSA. I enjoy **NoSQL data modelling**, rapid prototyping using **low-code/no-code** tools and **workflow automation**. I've also worked on PHP, Java, Python, Ruby, C++, C#.NET and Visual Basic.
+I'm a cloud solutions architect and a full-stack JavaScript engineer from Mumbai, India. I love all things JS&mdash;React, Next.js, Node.js, TypeScript&mdash;and serverless cloud platforms like Vercel, Netlify, as well as the usual suspects, **Amazon Web Services**, **Google Cloud Platform** and **Microsoft Azure**. I enjoy **NoSQL data modelling**, **workflow automation**. Earlier, I've also worked on PHP, Java, Python, Ruby, C++, C#.NET and Visual Basic.
 
 I love to constantly learn new things and teach others. If you work with any of the tools mentioned above or similar ones, let's connect!
 
@@ -11,8 +11,8 @@ I live in Mumbai, India.
 
 ## My list
 
-- 👨‍💻 I’m currently working on a few **Next.js** projects with **TypeScript**, **Tailwind CSS** and **TanStack Query**.
-- 👨‍🏫 I’m currently learning **Deno**, **Rust**, **Go** and more.
+- 👨‍💻 I’m currently working on a few **Next.js** 13 *app router* projects with **TypeScript**, **Tailwind CSS** and **Prisma**.
+- 👨‍🏫 I’m currently learning **Nim**, **Zig**, **Lua** and more.
 - 👷‍♀️ I’m looking to collaborate on anything **JavaScript** and **serverless**.
 - 👨‍⚖️ Ask me about **serverless architecture**, **NoSQL data modelling** and **developer experience**.
 - 👩‍✈️ Reach me at **Gmail**.
