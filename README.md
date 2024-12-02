@@ -99,6 +99,11 @@ was also called **Techtree**.
 
 _**TODO**: Turn this into a mini-resume._
 
+Blog
+====
+
+_**TODO**: Blog!_
+
 Contact
 =======
 
