@@ -8,6 +8,13 @@
 
 Hello, world! 👋
 
+<!-- GITHUBONLY START -->
+
+This GitHub README is also rendered as my personal website
+at [https://aalaap.com](https://aalaap.com). Check it out!
+
+<!-- GITHUBONLY END -->
+
 <!-- WEBSITEONLY
 
 I'm Aalaap Ghag, a solutions architect and a full-stack software engineer from
